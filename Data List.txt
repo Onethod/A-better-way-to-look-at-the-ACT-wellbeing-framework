@@ -3,7 +3,7 @@ Official:
 ACT Wellbeing data dashboard: https://www.act.gov.au/wellbeing/explore-overall-wellbeing
 External:
 Record Crime-Victims - Victims of family and domestic violence related offences: https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-victims/2023#victims-of-family-and-domestic-violence-related-offences
-Suicide & self-harm monitoring: Deaths by suicide in Australia - Australian Institute of Health and Welfare (aihw.gov.au)
+Suicide & self-harm monitoring: https://www.aihw.gov.au/suicide-self-harm-monitoring/data/deaths-by-suicide-in-australia/suicide-deaths-by-state-territories
 Changes in Modern social styles: https://oosga.com/social-media/aus/
 Proportion of regular clients aged 15 years and over who had their height and weight measurements recorded in their GP record within the previous 12 months, by PHN, July 2022: https://www.aihw.gov.au/reports/primary-health-care/practice-incentives-program-measures-2021-22/contents/pipqi-measures/qim-3-height-and-weight-recorded-and-bmi
 ACT city services satisfaction report: https://www.cityservices.act.gov.au/__data/assets/pdf_file/0018/2333340/TCCS-2023-satisfaction-Survey-Report-final.pdf
