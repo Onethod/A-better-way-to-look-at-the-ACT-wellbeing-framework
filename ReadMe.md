@@ -17,8 +17,9 @@ We also have a website that facilitates community involvement in the feedback pr
 
 #### Team Members
 - [Jasmin](linkedin.com/in/jasmin-zhou-a53829293)
-- [Nay Chi]()
+- [Nay Chi](linkedin.com/in/nay-chi-than-shwe-64b653165)
 - [Xin]()
-- [Shelly]()
+- [Shelly](linkedin.com/in/hsuan-chu-s-70837a214)
 - [Dibin](linkedin.com/in/dibin-joseph-956b377b)
-- [Mukund]()
+- [Mukund](linkedin.com/in/mukund-srinivas
+)
