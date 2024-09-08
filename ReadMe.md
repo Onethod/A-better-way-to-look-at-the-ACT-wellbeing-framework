@@ -18,12 +18,12 @@ We also have a [website](#check-this-out) that facilitates community involvement
 #### [Proof of work](https://drive.google.com/drive/folders/1CWhqo3r4nDi1wAdEHaN1aQyySfROTmJk?usp=drive_link) 
 
 #### Team Members
-- [Jasmin](linkedin.com/in/jasmin-zhou-a53829293)
-- [Nay Chi](linkedin.com/in/nay-chi-than-shwe-64b653165)
+- [Jasmin](https://www.linkedin.com/in/jasmin-zhou-a53829293)
+- [Nay Chi](https://www.linkedin.com/in/nay-chi-than-shwe-64b653165)
 - [Xin](https://www.linkedin.com/in/xin-wang-0359192ab/)
-- [Shelly](linkedin.com/in/hsuan-chu-s-70837a214)
-- [Dibin](linkedin.com/in/dibin-joseph-956b377b)
-- [Mukund](linkedin.com/in/mukund-srinivas
+- [Shelly](https://www.linkedin.com/in/hsuan-chu-s-70837a214)
+- [Dibin](https://www.linkedin.com/in/dibin-joseph-956b377b)
+- [Mukund](https://www.linkedin.com/in/mukund-srinivas
 )
-- [Xinyue](linkedin.com/in/xinyue-li-38653315a
+- [Xinyue](https://linkedin.com/in/xinyue-li-38653315a
 )
