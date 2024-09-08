@@ -13,3 +13,11 @@ Our solution bridges data gaps in the ACT Wellbeing Framework by analyzing the r
 #### [Sources](DataList.md)
 
 #### [Check this out](https://dibinjos.github.io/FeedbackWebsite)
+
+#### Team Members
+- [Jasmin](linkedin.com/in/jasmin-zhou-a53829293)
+- [Nay Chi]()
+- [Xin]()
+- [Shelly]()
+- [Dibin](linkedin.com/in/dibin-joseph-956b377b)
+- [Mukund]()
