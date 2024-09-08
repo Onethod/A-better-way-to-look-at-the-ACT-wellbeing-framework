@@ -9,14 +9,12 @@ The ACT Wellbeing Framework, based on input from nearly 3,000 Canberrans, aims t
 
 Our solution bridges data gaps in the ACT Wellbeing Framework by analyzing the relevance, context, and representativeness of the dashboard data. We propose key strategies, including refining survey questions, integrating external data sources, and re-representing existing data. This will ensure the indicators reflect the true experiences of diverse communities in Canberra, offering clearer insights for policymakers to make targeted, informed decisions.
 
-We also have a [website](#check-this-out) that facilitates community involvement in the feedback process, ensuring it is more inclusive and open to input from residents.
+We also have a [website](https://dibinjos.github.io/FeedbackWebsite) that facilitates community involvement in the feedback process, ensuring it is more inclusive and open to input from residents.
 
 #### [A better Way to Look at ACT Wellbeing Framework](https://www.youtube.com/watch?v=xyWRiWa0bXQ)
 
 
 #### [Sources](DataList.md)
-
-#### [Check this out](https://dibinjos.github.io/FeedbackWebsite)
 
 #### [Proof of work](https://drive.google.com/drive/folders/1CWhqo3r4nDi1wAdEHaN1aQyySfROTmJk?usp=drive_link) 
 
