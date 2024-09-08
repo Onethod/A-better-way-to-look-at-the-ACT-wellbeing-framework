@@ -23,7 +23,7 @@ We also have a [website](#check-this-out) that facilitates community involvement
 - [Xin](https://www.linkedin.com/in/xin-wang-0359192ab/)
 - [Shelly](https://www.linkedin.com/in/hsuan-chu-s-70837a214)
 - [Dibin](https://www.linkedin.com/in/dibin-joseph-956b377b)
-- [Mukund](https://www.linkedin.com/in/mukund-srinivas
-)
 - [Xinyue](https://linkedin.com/in/xinyue-li-38653315a
+)
+- [Mukund](https://www.linkedin.com/in/mukund-srinivas
 )
