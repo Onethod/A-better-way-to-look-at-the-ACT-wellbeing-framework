@@ -1,0 +1,13 @@
+Data Source:
+Official:
+ACT Wellbeing data dashboard: https://www.act.gov.au/wellbeing/explore-overall-wellbeing
+External:
+Record Crime-Victims - Victims of family and domestic violence related offences: https://www.abs.gov.au/statistics/people/crime-and-justice/recorded-crime-victims/2023#victims-of-family-and-domestic-violence-related-offences
+Suicide & self-harm monitoring: Deaths by suicide in Australia - Australian Institute of Health and Welfare (aihw.gov.au)
+Changes in Modern social styles: https://oosga.com/social-media/aus/
+Proportion of regular clients aged 15 years and over who had their height and weight measurements recorded in their GP record within the previous 12 months, by PHN, July 2022: https://www.aihw.gov.au/reports/primary-health-care/practice-incentives-program-measures-2021-22/contents/pipqi-measures/qim-3-height-and-weight-recorded-and-bmi
+ACT city services satisfaction report: https://www.cityservices.act.gov.au/__data/assets/pdf_file/0018/2333340/TCCS-2023-satisfaction-Survey-Report-final.pdf
+Canberra light rail customer satisfaction survey: https://www.transport.act.gov.au/__data/assets/pdf_file/0005/2531615/Customer-Satisfaction-Survey-Report_-March-24-access.pdf
+Election 2020 statistics: https://www.search.act.gov.au/s/redirect?collection=act-gov&url=https%3A%2F%2Fwww.elections.act.gov.au%2F__data%2Fassets%2Fexcel_doc%2F0008%2F2472470%2FElection-Statistics-2020-election.xlsx&auth=fgmf6aYrQ5D%2B9lM4mfZrlQ&profile=www-act&rank=16&query=%5B%240%5E16.6490+00%5E8.9912+electoral%5E4.1623+totals%5E3.6292+ads%5E3.4095+gift%5E3.1089+broadcast%5E3.0314+party%5E2.8180+expenditure%5E2.6146+advertisements%5E2.4946%5D+%7Cd%3E02Jul2024%3C18Jul2024
+ANU constitutional referendum survey: https://dataverse.ada.edu.au/dataset.xhtml?persistentId=doi:10.26193/13NPGQ
+Access to justice: meeting the need of ‘missing middle’: https://lawcouncil.au/publicassets/c1f31428-8fcd-eb11-943d-005056be13b5/2021-06-11-SP-Access-to-justice-meeting-the-need-of-the-missing-middle.pdf
