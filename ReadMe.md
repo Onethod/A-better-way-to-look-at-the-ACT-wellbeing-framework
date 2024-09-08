@@ -13,6 +13,9 @@ We also have a [website](https://dibinjos.github.io/FeedbackWebsite) that facili
 
 #### [A better Way to Look at ACT Wellbeing Framework](https://www.youtube.com/watch?v=xyWRiWa0bXQ)
 
+#### [We propose](https://docs.google.com/document/d/1-OytGN2yiCyfXPpl5UbED5HVoUHcNXSzxsSnwSJFOKQ/edit?fbclid=IwY2xjawFKKOpleHRuA2FlbQIxMAABHWWcpwvz3Wwj71jxgun1-5cqan4nATh1TW83z5Sfm1s0_9xTacbaOOqwiw_aem_luhfakd23nYmQIpgZ_Fzsg#heading=h.zfyoanojejq5)
+
+#### [GovHack Landing Page](https://hackerspace.govhack.org/team_management/teams/2413?fbclid=IwY2xjawFKKV9leHRuA2FlbQIxMAABHVs-oeuHYPpsUuzMqDDaJtm_F9Bg8l8zXWoAs9B_ID_JXfnvNfRIownnJA_aem_bs_j0MKOIHGhvvhelAakyw)
 
 #### [Sources](DataList.md)
 
@@ -28,3 +31,4 @@ We also have a [website](https://dibinjos.github.io/FeedbackWebsite) that facili
 )
 - [Mukund](https://www.linkedin.com/in/mukund-srinivas
 )
+
