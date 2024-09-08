@@ -11,4 +11,4 @@ We also have a website that facilitates community involvement in the feedback pr
 
 Website URL
 
-https://dibinjos.github.io/FeedbackWebsite/#feedback
+https://dibinjos.github.io/FeedbackWebsite
